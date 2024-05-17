@@ -1,25 +1,27 @@
-## What is Internet 	&#x1F310; ?
+# Internet &#x1F310; ?
 
-Internet is not a "Bubble Cloud" as many people tend to think ! &#x274C;
+Internet n'est pas un « nuage de bulles » comme beaucoup de gens ont tendance à le penser ! &#x274C;
 
-Internet is like a wire burried in the ground &#x3030;
+Internet est comme un fil enfoui dans le sol &#x3030;
 
-It can take ***several*** forms :
+Il peut prendre ***plusieurs*** formes :
 
-- Fiber optics :<br>
+- Fibre optique :<br>
 <img src="https://www.portices.fr/wp-content/uploads/2022/02/fibre-optique-internet.jpg" width="200" height="100">
-- Copper :<br>
+
+- Cuivre :<br>
 <img src="https://www.maltep.com/1404-large_default/cable-cuivre-nu.jpg" width="200" height="100">
 
-- Beam Sattellites <br>
+- Sattellites <br>
 <img src="https://cdn.satnow.com/community/1693216107010_638288129082064027.png" width="200" height="100">
 
-- Cell phone networks <br>
+- Réseaux mobiles <br>
 <img src="https://darshinisky.com/wp-content/uploads/2024/01/World-wide-web-on-phone-via-wireless-satellite-network-technology-1.jpg" width="200" height="100">
 
-## What Internet is useful for &#x1F914; ?
+## A quoi sert Internet  &#x1F914; ?
 
-It is useful to make communicate devices which are connected to the same network. For example, a ***server*** (which is a computer connected direclty connected to the Internet) can communicate to ***clients*** which are the devices that we use everyday and that are not direclty connected to the Internet, but through an [Internet Service Provider](https://fr.wikipedia.org/wiki/Fournisseur_d%27acc%C3%A8s_%C3%A0_Internet).
+Il est utile de faire communiquer des appareils qui sont connectés au même réseau. Par exemple, un ***serveur*** (qui est un ordinateur directement connecté à l'internet) peut communiquer avec des ***clients*** qui sont les appareils que nous utilisons tous les jours et qui ne sont pas directement connectés à l'internet, mais par l'intermédiaire d'un [fournisseur d'accès à l'internet](https://fr.wikipedia.org/wiki/Fournisseur_d%27acc%C3%A8s_%C3%A0_Internet).
+
 
 ## Qu'est-ce qu'un **serveur** ?
 
